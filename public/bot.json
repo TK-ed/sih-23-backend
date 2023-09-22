@@ -1,0 +1,174 @@
+[
+  {
+    "disease": "common cold",
+    "remedy": "rest, drink fluids, and over-the-counter cold medication"
+  },
+  {
+    "disease": "headache",
+    "remedy": "drink water, take pain relievers, and rest in a quiet, dark room"
+  },
+  {
+    "disease": "fever",
+    "remedy": "rest, stay hydrated, and take fever-reducing medication like acetaminophen"
+  },
+  {
+    "disease": "influenza (flu)",
+    "remedy": "get plenty of rest, stay hydrated, and take antiviral medication if prescribed"
+  },
+  {
+    "disease": "food poisoning",
+    "remedy": "drink clear fluids, avoid solid foods, and rest"
+  },
+  {
+    "disease": "stomach ache",
+    "remedy": "avoid spicy and greasy foods, drink ginger tea, and take over-the-counter antacids"
+  },
+  {
+    "disease": "allergies",
+    "remedy": "avoid allergens, take antihistamines, and consider allergy shots"
+  },
+  {
+    "disease": "sunburn",
+    "remedy": "apply aloe vera or moisturizing cream, drink water, and avoid further sun exposure"
+  },
+  {
+    "disease": "poison ivy rash",
+    "remedy": "wash the affected area, apply hydrocortisone cream, and take antihistamines"
+  },
+  {
+    "disease": "insomnia",
+    "remedy": "establish a bedtime routine, limit caffeine, and consider relaxation techniques"
+  },
+  {
+    "disease": "sprained ankle",
+    "remedy": "rest, ice the area, compress with a bandage, and elevate the foot"
+  },
+  {
+    "disease": "toothache",
+    "remedy": "rinse with warm saltwater, take pain relievers, and see a dentist"
+  },
+  {
+    "disease": "migraine",
+    "remedy": "rest in a dark room, use a cold compress, and take migraine-specific medication"
+  },
+  {
+    "disease": "asthma",
+    "remedy": "use inhalers as prescribed, avoid triggers, and have an action plan"
+  },
+  {
+    "disease": "diarrhea",
+    "remedy": "drink clear fluids, eat bland foods, and take anti-diarrheal medication if needed"
+  },
+  {
+    "disease": "sunstroke",
+    "remedy": "move to a cooler place, hydrate, and rest in a shaded area"
+  },
+  {
+    "disease": "hay fever",
+    "remedy": "use antihistamines, nasal corticosteroids, and avoid outdoor allergens"
+  },
+  {
+    "disease": "ear infection",
+    "remedy": "see a doctor for antibiotics, use warm compresses, and rest"
+  },
+  {
+    "disease": "heartburn",
+    "remedy": "avoid trigger foods, eat smaller meals, and take antacids"
+  },
+  {
+    "disease": "depression",
+    "remedy": "seek therapy, consider medication, and practice self-care"
+  },
+  {
+    "disease": "anxiety",
+    "remedy": "practice relaxation techniques, talk to a therapist, and consider medication"
+  },
+  {
+    "disease": "hives",
+    "remedy": "take antihistamines, avoid triggers, and apply cold compresses"
+  },
+  {
+    "disease": "pink eye (conjunctivitis)",
+    "remedy": "see a doctor for antibiotic eye drops, avoid touching the eyes, and practice good hygiene"
+  },
+  {
+    "disease": "sinusitis",
+    "remedy": "use saline nasal sprays, take decongestants, and consider antibiotics if severe"
+  },
+  {
+    "disease": "gastroenteritis",
+    "remedy": "drink clear fluids, avoid solid foods, and rest"
+  },
+  {
+    "disease": "tennis elbow",
+    "remedy": "rest the arm, use a brace, and consider physical therapy"
+  },
+  {
+    "disease": "menstrual cramps",
+    "remedy": "take pain relievers, use a heating pad, and practice relaxation techniques"
+  },
+  {
+    "disease": "rash",
+    "remedy": "identify and avoid the cause, apply soothing creams, and keep the area clean"
+  },
+  {
+    "disease": "acne",
+    "remedy": "use topical treatments, maintain good hygiene, and consider prescription medications"
+  },
+  {
+    "disease": "insect bites",
+    "remedy": "clean the bite area, apply anti-itch cream, and avoid scratching"
+  },
+  {
+    "disease": "poison oak rash",
+    "remedy": "wash the affected area, apply calamine lotion, and take antihistamines"
+  },
+  {
+    "disease": "back pain",
+    "remedy": "rest, use ice and heat therapy, and consider physical therapy"
+  },
+  {
+    "disease": "asthma attack",
+    "remedy": "use a rescue inhaler, sit up straight, and seek medical help if severe"
+  },
+  {
+    "disease": "athlete's foot",
+    "remedy": "use antifungal creams, keep feet dry, and wear clean socks and shoes"
+  },
+  {
+    "disease": "sun allergy",
+    "remedy": "apply sunscreen, wear protective clothing, and take antihistamines"
+  },
+  {
+    "disease": "motion sickness",
+    "remedy": "focus on the horizon, take anti-nausea medication, and avoid heavy meals"
+  },
+  {
+    "disease": "insulin shock (hypoglycemia)",
+    "remedy": "consume sugar or glucose tablets, seek medical help if severe"
+  },
+  {
+    "disease": "malaria",
+    "remedy": "take prescribed antimalarial drugs, use mosquito nets, and wear protective clothing"
+  },
+  {
+    "disease": "heat exhaustion",
+    "remedy": "move to a cooler place, hydrate, and rest in a shaded area"
+  },
+  {
+    "disease": "heat rash",
+    "remedy": "stay cool and dry, use talcum powder, and avoid tight clothing"
+  },
+  {
+    "disease": "eczema",
+    "remedy": "apply moisturizers, use medicated creams, and avoid triggers"
+  },
+  {
+    "disease": "diabetes",
+    "remedy": "monitor blood sugar levels, take insulin as prescribed, and maintain a healthy lifestyle"
+  },
+  {
+    "disease": "cough",
+    "remedy": "stay hydrated, use cough drops, and consider over-the-counter cough"
+  }
+]
